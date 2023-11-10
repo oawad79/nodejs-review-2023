@@ -1,0 +1,3 @@
+interface Author {
+    name: string;
+}
